@@ -1,0 +1,8 @@
+.subheading {
+    font-family: 'Open-Sans', sans-serif;
+    font-size: 15px;
+    color:#ffffff;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

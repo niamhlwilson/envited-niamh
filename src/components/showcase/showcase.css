@@ -1,0 +1,28 @@
+.showcase  {
+   display: inline-flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   max-width:auto;
+}
+.showcase{
+    max-width: 30vw;
+    display: inline-flex;
+   grid-template-columns: repeat(12, 1fr);
+   position: relative;
+    
+}
+
+.top {
+    justify-content:center;
+   
+}
+
+.left {
+    
+    justify-content: left;
+}
+
+.right {
+    
+    justify-content: right;
+}

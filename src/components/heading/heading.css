@@ -1,0 +1,9 @@
+.heading {
+    font-family: 'Open-Sans', sans-serif;
+    font-size: 32pt;
+    color:#ffffff;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom:2cm;
+}

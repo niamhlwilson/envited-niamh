@@ -1,0 +1,15 @@
+body {
+    font-family: 'Open-Sans', sans-serif;
+}
+
+.page{
+    background: linear-gradient(163.63deg, #501FC1 12.2%, #C346D5 96.78%);
+    height: auto;
+    width: auto;
+
+}
+
+.header {
+    max-width: 375px;
+}
+
