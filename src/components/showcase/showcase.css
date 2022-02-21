@@ -11,8 +11,7 @@
 .top {
     width: 33vw;
     position: relative;
-    margin-left: auto;
-    margin-right: auto;
+    left: 30vw;
     z-index: 10;
     flex-wrap: wrap;
     justify-content:center;
@@ -22,7 +21,7 @@
 .left {
     width: 33vw;
     position: absolute;
-    left: 0px;
+    left: 0vw;
     flex-wrap: wrap;
     justify-content: left;
 }
@@ -30,6 +29,7 @@
 .right {
     width: 33vw;
     right:0px;
+    left:66vw;
     position: absolute;
     flex-wrap: wrap;
     float:right;

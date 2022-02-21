@@ -4,7 +4,10 @@ body {
 
 .page{
     background: linear-gradient(163.63deg, #501FC1 12.2%, #C346D5 96.78%);
+    min-height: 100vh;
     height: auto;
+    
+    min-width: 100vh;
     width: auto;
 
 }
