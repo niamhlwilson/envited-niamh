@@ -8,7 +8,8 @@ function Showcase() {
         <>
         <div className='showcase'>
             <img className='left' src={left} align="left" alt="to satisfy the accessability gods"></img>
-            <img className='top' src={center} align="middle" alt="to satisfy the accessability gods"></img>
+            <img className='top' src={center} align="middle
+            " alt="to satisfy the accessability gods"></img>
             <img className='top' src={right} align="right" alt="to satisfy the accessability gods"></img>
         </div>
             

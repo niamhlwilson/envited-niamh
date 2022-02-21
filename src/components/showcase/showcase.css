@@ -1,4 +1,5 @@
 .showcase  {
+    padding-top: 20px;
    display: inline-flex;
    flex-wrap: wrap;
    flex-direction: row;
@@ -13,16 +14,17 @@
 }
 
 .top {
+    flex-wrap: wrap;
     justify-content:center;
    
 }
 
 .left {
-    
+    flex-wrap: wrap;
     justify-content: left;
 }
 
 .right {
-    
+    flex-wrap: wrap;
     justify-content: right;
 }
