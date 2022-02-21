@@ -9,9 +9,9 @@
 }
 
 .top {
-    width: 33vw;
+    width: 50vw;
     position: relative;
-    left: 30vw;
+    left: 25vw;
     z-index: 10;
     flex-wrap: wrap;
     justify-content:center;
@@ -21,15 +21,17 @@
 .left {
     width: 33vw;
     position: absolute;
+    z-index: 5;
     left: 0vw;
     flex-wrap: wrap;
     justify-content: left;
 }
 
 .right {
+    z-index: 5;
     width: 33vw;
     right:0px;
-    left:66vw;
+    left:68vw;
     position: absolute;
     flex-wrap: wrap;
     float:right;

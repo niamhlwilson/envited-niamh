@@ -5,4 +5,7 @@
     display: flex;
     justify-content: center;
     text-align: center;
+
+    margin-left: 25vw;
+    margin-right: 25vw;
 }
